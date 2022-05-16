@@ -11,3 +11,4 @@ git checkout -b dev
 git rebase master
 git merge master
 git commit -m "commit message"
+git push
