@@ -1,9 +1,3 @@
 Git Commands
 -------------
 
-git clone
-git add .
-git pull
-git push
-git status 
-git log 
