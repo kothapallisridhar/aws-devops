@@ -8,3 +8,5 @@ git status
 git log
 git branch
 git checkout -b dev
+git rebase master
+git merge master
