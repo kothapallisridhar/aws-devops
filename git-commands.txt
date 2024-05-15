@@ -6,3 +6,4 @@ git pull
 git commit -m "commit message"
 git merge origin/master
 git rebase
+git push
